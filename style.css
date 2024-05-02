@@ -174,7 +174,7 @@ h2{
     height: 150px;
     display: flex;
     justify-content: space-between;
-    align-items: g;
+    align-items: center;
     background-color: #3882f6;
     border-radius: 10px;
 }
@@ -183,10 +183,7 @@ h2{
     font-size: 24px;
     color: #F9FAF8;
     margin-left: 130px;
-    display: flex;
-    flex-direction: column;
 }
-
 
 .text-action p{
     margin-top:-30px;
