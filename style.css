@@ -196,11 +196,12 @@ h2{
 }
 
 footer{
-    background-color: #1f2937;
-    padding: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #1f2937;
+    padding: 30px;
+    color: #F9FAF8;
 }
 
 
